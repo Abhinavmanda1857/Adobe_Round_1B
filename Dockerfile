@@ -6,6 +6,7 @@ WORKDIR /app
 COPY requirements.txt .
 COPY process_pdfs.py .
 COPY docparser.py .
+COPY doc_intelligence.py .
 COPY doclayout_yolo/ ./doclayout_yolo/
 COPY models/ ./models/
 COPY outputs/ ./outputs/
