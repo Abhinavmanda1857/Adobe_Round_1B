@@ -5,3 +5,7 @@ numpy
 torch
 pdf2image
 tqdm
+pandas
+sentence-transformers
+transformers
+scikit-learn
